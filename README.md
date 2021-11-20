@@ -1,16 +1,20 @@
 # tsXMLtoJSON
-projectType |> 4FLP ( for fun learning project)
+**projectType |>**
 
-usedModules |> 
+4FLP ( for fun learning project)
+
+**usedModules |> **
+
 	yargs, 
 	fast-xml-parser
 
-compilingInstructions |>
-	1. npm i typescript yargs fast-xml-parser
-	2. tsc main.js
-	3. [node] main.js -i inputXMLFile -o outputJSONFile
+**compilingInstructions |>**
+
+1. npm i typescript yargs fast-xml-parser
+2. tsc main.js
+3. [node] main.js -i inputXMLFile -o outputJSONFile
 	
-usage |>
+**usage |>**
 ```
 Usage main.js -i <inputXMLFile> -o <outputJSONFile>
 
