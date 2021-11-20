@@ -3,10 +3,10 @@
 
 4FLP ( for fun learning project)
 
-**usedModules |> **
+**usedModules |>**
 
-	yargs, 
-	fast-xml-parser
+- yargs, 
+- fast-xml-parser
 
 **compilingInstructions |>**
 
