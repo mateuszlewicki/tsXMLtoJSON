@@ -7,10 +7,10 @@ lib-cov
 *.pid
 *.gz
 *.swp
-*.xmp
+*.xml
 
 # emacs swap
-*~$
+*~
 
 pids
 logs
